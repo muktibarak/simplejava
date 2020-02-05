@@ -1,0 +1,2 @@
+module myprojects {
+}

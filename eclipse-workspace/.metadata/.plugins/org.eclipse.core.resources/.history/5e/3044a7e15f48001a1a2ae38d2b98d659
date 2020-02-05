@@ -1,0 +1,13 @@
+package emailapp;
+
+public class EmailApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Email email1 = new Email("Mukti", "Barak");
+		
+		email1.setAlternateEmail("mb@mycompany.com");
+		System.out.println("This is your alternate email: ");
+	}
+
+}

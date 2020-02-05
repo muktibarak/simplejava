@@ -1,0 +1,25 @@
+package emailapp;
+
+public class Email {
+	//create class variables and make them accessible here only
+	
+	private String firstName;
+	private String lastname;
+	private String password;
+	private String department;
+	private int mailboxCapacity;
+	private String alternateEmail;
+	
+	//create constructor to receive firstName and lastName
+	
+	//we need to ask for the department
+	
+	//we need to generate a random password
+	
+	//we need to set the mailbox capacity
+	
+	//we need to set the alternate email\
+	
+	//change the password
+
+}
